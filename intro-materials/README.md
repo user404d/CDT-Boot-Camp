@@ -13,7 +13,9 @@ Expectations:
 - Get bearings (GUI)
 - Get bearings (terminal,bash)
 - Editors (vi[m] & emacs, quickly), man pages, useful commands/tools (pipes,grep,find,cat,etc)
+
  **break**
+
 - Simple networking (ip, netcat, ssh)
 - Simple program, file inspection (xxd, objdump, gdb)
 - aptitude, packages, etc
@@ -30,7 +32,9 @@ Expectations:
 - Primitives, static vs dynamic, containers
 - conditionals, simple loops, functions
 - reading stdin input, writing output to stdin
+
  **break**
+
 - Modules, libraries, more builtins (int,chr,ord,hex,%,**,etc)
 - File IO, iterators, list comprehensions
 
