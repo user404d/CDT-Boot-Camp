@@ -13,15 +13,14 @@ Expectations:
 - Get bearings (GUI)
 - Get bearings (terminal,bash)
 - Editors (vi[m] & emacs, quickly), man pages, useful commands/tools (pipes,grep,find,cat,etc)
-==break==
+ **break**
 - Simple networking (ip, netcat, ssh)
 - Simple program, file inspection (xxd, objdump, gdb)
 - aptitude, packages, etc
 
-### Knowledge Level: Can navigate filesystem, read->modify->save files with vi[m]/emacs/other, able to 
-                     find and report current ip address
+### Knowledge Level: Can navigate filesystem, read->modify->save files with vi[m]/emacs/other, able to find and report current ip address
 
-==break==
+ **break**
 
 ### Knowledge Level: No prior programming experience
 
@@ -31,7 +30,7 @@ Expectations:
 - Primitives, static vs dynamic, containers
 - conditionals, simple loops, functions
 - reading stdin input, writing output to stdin
-==break==
+ **break**
 - Modules, libraries, more builtins (int,chr,ord,hex,%,**,etc)
 - File IO, iterators, list comprehensions
 
